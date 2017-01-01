@@ -1,0 +1,4 @@
+/**
+    Simplest Possible Schema with a primitive typedef
+*/
+["null", "string"]
